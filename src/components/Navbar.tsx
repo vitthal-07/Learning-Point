@@ -33,14 +33,6 @@ export default function Navbar() {
                     Courses
                   </Link>
                 </NavigationMenuItem>
-                <NavigationMenuItem>
-                  <Link
-                    to="/tutorials"
-                    className={navigationMenuTriggerStyle()}
-                  >
-                    Tutorials
-                  </Link>
-                </NavigationMenuItem>
               </>
             )}
             <NavigationMenuItem>

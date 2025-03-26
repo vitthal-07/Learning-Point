@@ -15,7 +15,7 @@ export default function Tutorials() {
       <div className="container py-8">
         <h1 className="text-3xl font-bold mb-8">Course not found</h1>
         <Button onClick={() => navigate("/courses")}>Back to Courses</Button>
-      </div>
+      </div>      
     );
   }
 
